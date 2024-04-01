@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sofieutoft
 - 👀 I’m interested in machine learning!
-- 🌱 I’m currently learning how to create a self-supervised model for EEG waves
+- 🌱 I’m currently learning how to better extract spatial and temporal features from EEG waves
 - 📫 How to reach me: email: sofieu26@gmail.com
